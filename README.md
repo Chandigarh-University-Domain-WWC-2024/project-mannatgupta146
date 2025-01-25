@@ -75,7 +75,11 @@ Contributions are welcome! If you have ideas for improving the prediction accura
 
 ## 📬 Contact
 
-For any questions or feedback, feel free to reach out via GitHub Issues or contact me directly at **mannatgupta@146@gmail.com**.
+For any questions or feedback, feel free to reach out via GitHub Issues or contact me directly at **mannatgupta146@gmail.com**.
+
+### Author:
+This project was created and maintained by **Mannat Gupta**.
+
 
 
 ---
